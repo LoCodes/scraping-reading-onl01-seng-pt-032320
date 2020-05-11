@@ -15,4 +15,4 @@ courses.each do |course|
 end
 
 
-#puts doc
+puts doc
